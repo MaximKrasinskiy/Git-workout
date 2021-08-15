@@ -1,2 +1,3 @@
-# Git workout and test my testing my abilities!
- Ready go!
+# Git workout and testing  abilities!
+
+Let's go!
